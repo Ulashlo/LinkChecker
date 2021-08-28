@@ -1,0 +1,76 @@
+C:\Users\Xiaomi\Desktop\Learning\Курсовой проект 2\Программа\TrialProgram\TrialProgram\bin\Debug\TrialProgram.exe.config
+C:\Users\Xiaomi\Desktop\Learning\Курсовой проект 2\Программа\TrialProgram\TrialProgram\bin\Debug\TrialProgram.exe
+C:\Users\Xiaomi\Desktop\Learning\Курсовой проект 2\Программа\TrialProgram\TrialProgram\bin\Debug\TrialProgram.pdb
+C:\Users\Xiaomi\Desktop\Learning\Курсовой проект 2\Программа\TrialProgram\TrialProgram\bin\Debug\EntityFramework.dll
+C:\Users\Xiaomi\Desktop\Learning\Курсовой проект 2\Программа\TrialProgram\TrialProgram\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Xiaomi\Desktop\Learning\Курсовой проект 2\Программа\TrialProgram\TrialProgram\bin\Debug\EntityFramework.xml
+C:\Users\Xiaomi\Desktop\Learning\Курсовой проект 2\Программа\TrialProgram\TrialProgram\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Xiaomi\Desktop\Learning\Курсовой проект 2\Программа\TrialProgram\TrialProgram\obj\Debug\LinkChecker.csprojAssemblyReference.cache
+C:\Users\Xiaomi\Desktop\Learning\Курсовой проект 2\Программа\TrialProgram\TrialProgram\obj\Debug\TrialProgram.AboutLinkForm.resources
+C:\Users\Xiaomi\Desktop\Learning\Курсовой проект 2\Программа\TrialProgram\TrialProgram\obj\Debug\TrialProgram.CodeForm.resources
+C:\Users\Xiaomi\Desktop\Learning\Курсовой проект 2\Программа\TrialProgram\TrialProgram\obj\Debug\TrialProgram.LinksForm.resources
+C:\Users\Xiaomi\Desktop\Learning\Курсовой проект 2\Программа\TrialProgram\TrialProgram\obj\Debug\TrialProgram.MainForm.resources
+C:\Users\Xiaomi\Desktop\Learning\Курсовой проект 2\Программа\TrialProgram\TrialProgram\obj\Debug\TrialProgram.ProgressForm.resources
+C:\Users\Xiaomi\Desktop\Learning\Курсовой проект 2\Программа\TrialProgram\TrialProgram\obj\Debug\TrialProgram.Properties.Resources.resources
+C:\Users\Xiaomi\Desktop\Learning\Курсовой проект 2\Программа\TrialProgram\TrialProgram\obj\Debug\LinkChecker.csproj.GenerateResource.cache
+C:\Users\Xiaomi\Desktop\Learning\Курсовой проект 2\Программа\TrialProgram\TrialProgram\obj\Debug\LinkChecker.csproj.CoreCompileInputs.cache
+C:\Users\Xiaomi\Desktop\Learning\Курсовой проект 2\Программа\TrialProgram\TrialProgram\obj\Debug\LinkChecker.csproj.CopyComplete
+C:\Users\Xiaomi\Desktop\Learning\Курсовой проект 2\Программа\TrialProgram\TrialProgram\obj\Debug\TrialProgram.exe
+C:\Users\Xiaomi\Desktop\Learning\Курсовой проект 2\Программа\TrialProgram\TrialProgram\obj\Debug\TrialProgram.pdb
+C:\Users\Work\Desktop\TrialProgram\TrialProgram\bin\Debug\TrialProgram.exe.config
+C:\Users\Work\Desktop\TrialProgram\TrialProgram\bin\Debug\TrialProgram.exe
+C:\Users\Work\Desktop\TrialProgram\TrialProgram\bin\Debug\TrialProgram.pdb
+C:\Users\Work\Desktop\TrialProgram\TrialProgram\bin\Debug\EntityFramework.dll
+C:\Users\Work\Desktop\TrialProgram\TrialProgram\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Work\Desktop\TrialProgram\TrialProgram\bin\Debug\EntityFramework.xml
+C:\Users\Work\Desktop\TrialProgram\TrialProgram\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Work\Desktop\TrialProgram\TrialProgram\obj\Debug\TrialProgram.AboutLinkForm.resources
+C:\Users\Work\Desktop\TrialProgram\TrialProgram\obj\Debug\TrialProgram.CodeForm.resources
+C:\Users\Work\Desktop\TrialProgram\TrialProgram\obj\Debug\TrialProgram.LinksForm.resources
+C:\Users\Work\Desktop\TrialProgram\TrialProgram\obj\Debug\TrialProgram.MainForm.resources
+C:\Users\Work\Desktop\TrialProgram\TrialProgram\obj\Debug\TrialProgram.ProgressForm.resources
+C:\Users\Work\Desktop\TrialProgram\TrialProgram\obj\Debug\TrialProgram.Properties.Resources.resources
+C:\Users\Work\Desktop\TrialProgram\TrialProgram\obj\Debug\LinkChecker.csproj.GenerateResource.cache
+C:\Users\Work\Desktop\TrialProgram\TrialProgram\obj\Debug\LinkChecker.csproj.CoreCompileInputs.cache
+C:\Users\Work\Desktop\TrialProgram\TrialProgram\obj\Debug\LinkChecker.csproj.CopyComplete
+C:\Users\Work\Desktop\TrialProgram\TrialProgram\obj\Debug\TrialProgram.exe
+C:\Users\Work\Desktop\TrialProgram\TrialProgram\obj\Debug\TrialProgram.pdb
+C:\Users\Work\Desktop\TrialProgram\TrialProgram\obj\Debug\LinkChecker.csprojAssemblyReference.cache
+C:\Users\Xiaomi\Desktop\Learning\Курсовой проект 2\Прога\TrialProgram\TrialProgram\bin\Debug\TrialProgram.exe.config
+C:\Users\Xiaomi\Desktop\Learning\Курсовой проект 2\Прога\TrialProgram\TrialProgram\bin\Debug\TrialProgram.exe
+C:\Users\Xiaomi\Desktop\Learning\Курсовой проект 2\Прога\TrialProgram\TrialProgram\bin\Debug\TrialProgram.pdb
+C:\Users\Xiaomi\Desktop\Learning\Курсовой проект 2\Прога\TrialProgram\TrialProgram\bin\Debug\EntityFramework.dll
+C:\Users\Xiaomi\Desktop\Learning\Курсовой проект 2\Прога\TrialProgram\TrialProgram\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Xiaomi\Desktop\Learning\Курсовой проект 2\Прога\TrialProgram\TrialProgram\bin\Debug\EntityFramework.xml
+C:\Users\Xiaomi\Desktop\Learning\Курсовой проект 2\Прога\TrialProgram\TrialProgram\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Xiaomi\Desktop\Learning\Курсовой проект 2\Прога\TrialProgram\TrialProgram\obj\Debug\LinkChecker.csprojAssemblyReference.cache
+C:\Users\Xiaomi\Desktop\Learning\Курсовой проект 2\Прога\TrialProgram\TrialProgram\obj\Debug\TrialProgram.AboutLinkForm.resources
+C:\Users\Xiaomi\Desktop\Learning\Курсовой проект 2\Прога\TrialProgram\TrialProgram\obj\Debug\TrialProgram.CodeForm.resources
+C:\Users\Xiaomi\Desktop\Learning\Курсовой проект 2\Прога\TrialProgram\TrialProgram\obj\Debug\TrialProgram.LinksForm.resources
+C:\Users\Xiaomi\Desktop\Learning\Курсовой проект 2\Прога\TrialProgram\TrialProgram\obj\Debug\TrialProgram.MainForm.resources
+C:\Users\Xiaomi\Desktop\Learning\Курсовой проект 2\Прога\TrialProgram\TrialProgram\obj\Debug\TrialProgram.ProgressForm.resources
+C:\Users\Xiaomi\Desktop\Learning\Курсовой проект 2\Прога\TrialProgram\TrialProgram\obj\Debug\TrialProgram.Properties.Resources.resources
+C:\Users\Xiaomi\Desktop\Learning\Курсовой проект 2\Прога\TrialProgram\TrialProgram\obj\Debug\LinkChecker.csproj.GenerateResource.cache
+C:\Users\Xiaomi\Desktop\Learning\Курсовой проект 2\Прога\TrialProgram\TrialProgram\obj\Debug\LinkChecker.csproj.CoreCompileInputs.cache
+C:\Users\Xiaomi\Desktop\Learning\Курсовой проект 2\Прога\TrialProgram\TrialProgram\obj\Debug\LinkChecker.csproj.CopyComplete
+C:\Users\Xiaomi\Desktop\Learning\Курсовой проект 2\Прога\TrialProgram\TrialProgram\obj\Debug\TrialProgram.exe
+C:\Users\Xiaomi\Desktop\Learning\Курсовой проект 2\Прога\TrialProgram\TrialProgram\obj\Debug\TrialProgram.pdb
+C:\Users\Xiaomi\Desktop\Learning\Курсовой проект 2\Никольский Владислав БПИ185-2 курсовая работа\Программа\TrialProgram\TrialProgram\bin\Debug\TrialProgram.exe.config
+C:\Users\Xiaomi\Desktop\Learning\Курсовой проект 2\Никольский Владислав БПИ185-2 курсовая работа\Программа\TrialProgram\TrialProgram\bin\Debug\TrialProgram.exe
+C:\Users\Xiaomi\Desktop\Learning\Курсовой проект 2\Никольский Владислав БПИ185-2 курсовая работа\Программа\TrialProgram\TrialProgram\bin\Debug\TrialProgram.pdb
+C:\Users\Xiaomi\Desktop\Learning\Курсовой проект 2\Никольский Владислав БПИ185-2 курсовая работа\Программа\TrialProgram\TrialProgram\bin\Debug\EntityFramework.dll
+C:\Users\Xiaomi\Desktop\Learning\Курсовой проект 2\Никольский Владислав БПИ185-2 курсовая работа\Программа\TrialProgram\TrialProgram\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Xiaomi\Desktop\Learning\Курсовой проект 2\Никольский Владислав БПИ185-2 курсовая работа\Программа\TrialProgram\TrialProgram\bin\Debug\EntityFramework.xml
+C:\Users\Xiaomi\Desktop\Learning\Курсовой проект 2\Никольский Владислав БПИ185-2 курсовая работа\Программа\TrialProgram\TrialProgram\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Xiaomi\Desktop\Learning\Курсовой проект 2\Никольский Владислав БПИ185-2 курсовая работа\Программа\TrialProgram\TrialProgram\obj\Debug\LinkChecker.csprojAssemblyReference.cache
+C:\Users\Xiaomi\Desktop\Learning\Курсовой проект 2\Никольский Владислав БПИ185-2 курсовая работа\Программа\TrialProgram\TrialProgram\obj\Debug\TrialProgram.AboutLinkForm.resources
+C:\Users\Xiaomi\Desktop\Learning\Курсовой проект 2\Никольский Владислав БПИ185-2 курсовая работа\Программа\TrialProgram\TrialProgram\obj\Debug\TrialProgram.CodeForm.resources
+C:\Users\Xiaomi\Desktop\Learning\Курсовой проект 2\Никольский Владислав БПИ185-2 курсовая работа\Программа\TrialProgram\TrialProgram\obj\Debug\TrialProgram.LinksForm.resources
+C:\Users\Xiaomi\Desktop\Learning\Курсовой проект 2\Никольский Владислав БПИ185-2 курсовая работа\Программа\TrialProgram\TrialProgram\obj\Debug\TrialProgram.MainForm.resources
+C:\Users\Xiaomi\Desktop\Learning\Курсовой проект 2\Никольский Владислав БПИ185-2 курсовая работа\Программа\TrialProgram\TrialProgram\obj\Debug\TrialProgram.ProgressForm.resources
+C:\Users\Xiaomi\Desktop\Learning\Курсовой проект 2\Никольский Владислав БПИ185-2 курсовая работа\Программа\TrialProgram\TrialProgram\obj\Debug\TrialProgram.Properties.Resources.resources
+C:\Users\Xiaomi\Desktop\Learning\Курсовой проект 2\Никольский Владислав БПИ185-2 курсовая работа\Программа\TrialProgram\TrialProgram\obj\Debug\LinkChecker.csproj.GenerateResource.cache
+C:\Users\Xiaomi\Desktop\Learning\Курсовой проект 2\Никольский Владислав БПИ185-2 курсовая работа\Программа\TrialProgram\TrialProgram\obj\Debug\LinkChecker.csproj.CoreCompileInputs.cache
+C:\Users\Xiaomi\Desktop\Learning\Курсовой проект 2\Никольский Владислав БПИ185-2 курсовая работа\Программа\TrialProgram\TrialProgram\obj\Debug\LinkChecker.csproj.CopyComplete
+C:\Users\Xiaomi\Desktop\Learning\Курсовой проект 2\Никольский Владислав БПИ185-2 курсовая работа\Программа\TrialProgram\TrialProgram\obj\Debug\TrialProgram.exe
+C:\Users\Xiaomi\Desktop\Learning\Курсовой проект 2\Никольский Владислав БПИ185-2 курсовая работа\Программа\TrialProgram\TrialProgram\obj\Debug\TrialProgram.pdb
